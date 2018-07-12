@@ -1,0 +1,56 @@
+.c06acb7 {
+  font-size: 55px; }
+
+._9648452 {
+  font-size: 50px; }
+
+._58615d4 {
+  font-size: 45px; }
+
+.f27d952 {
+  font-size: 40px; }
+
+._402f9c1 {
+  font-size: 35px; }
+
+.bc35b93 {
+  font-size: 30px; }
+
+._2ac12fb {
+  color: #EF5350; }
+
+._3c604c1 {
+  color: #7E57C2; }
+
+.df656f7 {
+  color: #58B4F0; }
+
+._6269f95 {
+  color: #4CAF50; }
+
+.fdeee57 {
+  color: #E0D950; }
+
+._7ec824c {
+  color: #78909C; }
+.f2181db {
+  border: 1px dashed #F00;
+  padding: 10px; }
+
+.f2181db h1 {
+  text-decoration: underline; }
+
+.f2181db fieldset {
+  display: inline-block;
+  vertical-align: top;
+  padding-right: 20px;
+  min-width: 100px;
+  box-sizing: border-box;
+  -webkit-scroll-snap-type: mandatory;
+      -ms-scroll-snap-type: mandatory;
+          scroll-snap-type: mandatory; }
+label {
+  display: block; }
+
+h1 {
+  margin: 0; }
