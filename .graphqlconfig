@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "react-fetch-apollo-relay": {
+      "schemaPath": "schema.graphql",
+      "extensions": {
+        "endpoints": {
+          "default": "https://shielded-harbor-46156.herokuapp.com"
+        }
+      }
+    }
+  }
+}

@@ -62,6 +62,7 @@ class Home extends React.Component {
                 </fieldset>
 
                 <fieldset>
+                    <p>teste</p>
                     <legend>colors</legend>
                     {this.getColorOptions()}
                 </fieldset>
